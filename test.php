@@ -16,6 +16,8 @@ ilsDB::createTable(
         "required char(1) not null"
     ]
 );
+
+
 */
 /*
 ilsDB::createTable(
