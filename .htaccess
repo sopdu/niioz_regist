@@ -1,0 +1,6 @@
+php_flag display_errors On
+#показать все ошибки кроме предупреждений (Notice)
+php_value error_reporting "E_ALL & ~E_NOTICE"
+
+#php_value session.save_handler files
+#php_value session.save_path /sessions
